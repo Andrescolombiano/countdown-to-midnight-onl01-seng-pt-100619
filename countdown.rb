@@ -8,5 +8,5 @@ def countdown (number)
 end
 end
 
-return 
+return "HAPPY NEW YEAR!"
 
